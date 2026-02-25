@@ -1,3 +1,3 @@
-# MATSCI_465_Final_Project
+# Subfolder of Yangming Wang
 
-Final Project for Computational Electron Microscopy
+All work done by Yangming will be pushed into this folder
