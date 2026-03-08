@@ -1,4 +1,4 @@
-﻿# Subfolder of Yangming
+﻿# Trained Model & Testing Code
 
 
 
