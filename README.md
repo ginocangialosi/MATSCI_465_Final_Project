@@ -1,5 +1,5 @@
 # MATSCI_465_Final_Project
-Final Project for Computational Electron Microscopy
+**Final Project for Computational Electron Microscopy
 
 
 Gino Cangialosi (GC):
