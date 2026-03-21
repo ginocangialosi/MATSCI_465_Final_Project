@@ -3,7 +3,7 @@
 
 
 Gino Cangialosi (GC):
-- Contains EMSoft simulation Python files
+- Contains EMsoft simulation Python files
 
 Valeria Rodriguez (VR):
 - Contains Python notebooks for dataset creation (v1 & v2)
