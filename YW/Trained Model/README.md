@@ -1,4 +1,4 @@
-﻿# Trained Model & Testing Code (Last update: v4 - 3/9/26 15:29)
+﻿# Trained Model & Testing Code (Latest model: v4 - 3/9/26 15:29)
 
 
 - The notebooks primarily run in Google Colab. 
